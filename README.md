@@ -2,11 +2,11 @@
 Exploratory data analysis using python projects.
 
 ## Used Libraries.
-pandas
-seaborn
-Numpy
-matplotlib
-sklearn
+pandas,
+seaborn,
+Numpy,
+matplotlib,
+sklearn,
 Pickel
 
 ## Tool used.
