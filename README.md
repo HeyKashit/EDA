@@ -9,8 +9,8 @@ matplotlib
 sklearn
 Pickel
 
-##Tool used.
+## Tool used.
 Jupyter notebook
 
 1.Zomato EDA project.
-2.
+2.black_friday EDA project.
